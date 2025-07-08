@@ -1,6 +1,6 @@
 //my approach to solve ...
 
-public class Main {
+public class stocks1 {
    
   
   public static int buyAndSell(int prices[]){
