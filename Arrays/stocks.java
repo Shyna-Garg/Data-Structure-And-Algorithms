@@ -20,3 +20,5 @@ public class stocks {
     System.out.print(buyAndSellStocks(num));
   }
 }
+
+//output--> 0

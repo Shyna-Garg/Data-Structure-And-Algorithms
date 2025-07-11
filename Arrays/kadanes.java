@@ -1,6 +1,6 @@
+//optimized technique for print maximum sum of subarray 
+
 public class kadanes {
-    
-   
 
     public static int kadanesAlgo(int nums[]) {
         int maxSum = nums[0];
@@ -15,7 +15,7 @@ public class kadanes {
     }
 
     public static void main(String[] args) {
-        int nums[] = {-2, -3, -7, -2, -10, -4};
-        System.out.println(kadanesAlgo(nums));  
+        int nums[] = { -2, -3, -7, -2, -10, -4 };
+        System.out.println(kadanesAlgo(nums));
     }
 }
