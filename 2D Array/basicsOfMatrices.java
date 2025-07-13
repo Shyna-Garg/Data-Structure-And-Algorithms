@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Matrices {
+public class basicsOfMatrices {
 
   // searching any key
 
@@ -37,6 +37,7 @@ public class Matrices {
   // main function
 
   public static void main(String args[]) {
+    
     // input
     int matrix[][] = new int[3][3];
     int n = matrix.length, m = matrix[0].length;
