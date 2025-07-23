@@ -17,7 +17,7 @@ public class findKeyOfArray {
     }
     
 
-    //now, we are writing unction to find last occurence of key
+    //now, we are writing function to find last occurence of key
     public static int lastOccurenceKey(int arr[], int i, int key){
         if(i < 0){
             System.out.println("key not found");
