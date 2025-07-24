@@ -12,11 +12,12 @@ public class findKeyOfArray {
 
         if(key == arr[i]){
             return i;
+            
         }
         return firstOccurenceKey(arr, i+1, key);
     }
     
-
+          
     //now, we are writing function to find last occurence of key
     public static int lastOccurenceKey(int arr[], int i, int key){
         if(i < 0){
